@@ -1,0 +1,19 @@
+body{
+    background-color: rgba(215, 181, 31, 0.96);
+}
+
+h1 {
+    border-bottom: 1px solid black;
+    color: rgb(25, 8, 68);
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+}
+
+h3 {
+    color: rgb(10, 51, 60);
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
